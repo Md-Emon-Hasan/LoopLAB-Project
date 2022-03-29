@@ -1,0 +1,43 @@
+
+/** Navbar **/
+
+.navbar{
+	border-bottom: 3px solid #008ed6;
+	background: #292b2c;
+	opacity: 0.7;
+	position: fixed;
+	width: 100%;
+	z-index: 9999;
+	top: 0px;
+}
+
+/** Home section **/
+
+.home-section{
+	margin-top: 58px !important;
+	background: linear-gradient(rgba(000,000,000,0.5),rgba(000,000,000,0.5)),url(../img/1.jpg);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+i{
+	font-size: 40px;
+}
+
+.card1{
+	opacity: 1;
+}
+
+/** explore section **/
+
+.explore-section{
+	background: rgba(0,0,0,0.9);
+}
+
+/** footer **/
+
+.footer{
+	background: rgba(0,0,0,0.9);
+}
